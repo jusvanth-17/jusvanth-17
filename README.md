@@ -1,4 +1,6 @@
 <h3 align="center">A passionate  developer from India</h3>
+
+(https://iconscout.com/lottie-animation/cyber-security-hacker-3916646.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusvanth-17&label=Profile%20views&color=0e75b6&style=flat" alt="jusvanth-17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jusvanth-17" alt="jusvanth-17" /></a> </p>
