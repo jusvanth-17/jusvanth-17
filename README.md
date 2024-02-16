@@ -1,5 +1,4 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumar-1823" alt="rajkumar-1823" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
