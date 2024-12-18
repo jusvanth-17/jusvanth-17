@@ -1,4 +1,4 @@
-![]([https://github.com/jusvanth-17/jusvanth-17/blob/main/3.gif](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif))
+![]([https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif])
 <h3 align="center">A passionate  developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusvanth-17&label=Profile%20views&color=0e75b6&style=flat" alt="jusvanth-17" /> </p>
